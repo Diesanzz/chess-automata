@@ -9,7 +9,7 @@ Este proyecto es un simulador de lógica desarrollado para la carrera de **Ingen
 - **Interacción:** Interfaz de juego básica para probar la legalidad de los movimientos en tiempo real.
 
 ## Tecnologías y Librerías
-- **Lenguaje:** Python 3.x
+- **Lenguaje:** Python 3.12
 - **Gráficos:** Matplotlib / NetworkX (para la visualización de la red y el tablero).
 - **Lógica:** Implementación personalizada de la matriz de transición de estados.
 
