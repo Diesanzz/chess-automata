@@ -23,4 +23,4 @@ Este proyecto es un simulador de lógica desarrollado para la carrera de **Ingen
 ## Instalación y Uso
 1. Clona este repositorio:
    ```bash
-   git clone [https://github.com/Diesanzz/tu-repo-name.git](https://github.com/Diesanzz/chess-automata.git)
+   git clone [https://github.com/Diesanzz/chess-automata.git](https://github.com/Diesanzz/chess-automata.git)
